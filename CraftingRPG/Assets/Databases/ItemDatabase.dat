@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemDatabase>
+  <Item>
+    <ItemName>
+      <string>asfasdfasf</string>
+    </ItemName>
+    <ItemObject>
+      <Item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Name>asfasdfasf</Name>
+        <Type>Potion</Type>
+        <Description>adsfsdafdsf</Description>
+        <Price>0</Price>
+        <Value>0</Value>
+        <CanSell>true</CanSell>
+        <Image>
+          <name>Background</name>
+          <hideFlags>NotEditable</hideFlags>
+        </Image>
+      </Item>
+    </ItemObject>
+  </Item>
+</ItemDatabase>
